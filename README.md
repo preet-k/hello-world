@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-This is the 1st updation of Master
+This is the 2nd updation of master
